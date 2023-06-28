@@ -1,0 +1,28 @@
+.navbar .nav-item .nav-link{
+    font-size: 20px;
+    color: white;
+}
+/* .navbar .nav-item :hover{
+    background: white;
+    color: black;
+    color: #26c6da;
+    border-radius: 10px;
+} */
+
+.bg-custom{
+  color: #20bbff;
+}
+.bg-image{
+    /* background: url(./images/paper.jpg); */
+    background: url(../images/paper.jpg);
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-header{
+    background: #26c6da;
+}
+.div-color{
+    background-image: linear-gradient(to right top, #6bd196, #00d0c4, #00c9ed, #20bbff, #93a7ff, #8f96e8, #8986d2, #8277bc, #436595, #204e67, #1b343a, #181919);
+}
